@@ -1,0 +1,9 @@
+# Ignore everything
+*
+
+!.gitignore
+!autoexec.cfg
+!binds.cfg
+!cross*.cfg
+
+!*/
