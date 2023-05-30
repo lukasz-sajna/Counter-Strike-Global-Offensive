@@ -6,5 +6,7 @@
 !binds.cfg
 !cross*.cfg
 !*.cfg
+!commit.sh
+!run_script.bat
 
 !*/
