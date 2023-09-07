@@ -1,1 +1,1 @@
-cmd /c ""C:\Program Files\Git\bin\bash.exe" --login -i -- "C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\commit.sh""
+cmd /c ""C:\Program Files\Git\bin\bash.exe" --login -i -- "E:\commit.sh""
