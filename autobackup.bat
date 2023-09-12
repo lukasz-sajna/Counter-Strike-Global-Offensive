@@ -1,3 +1,5 @@
+cd "C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive"
+
 git add .
 set time=%TIME:~0,2%:%TIME:~3,2%:%TIME:~6,2%
 set time=%time: =0%
