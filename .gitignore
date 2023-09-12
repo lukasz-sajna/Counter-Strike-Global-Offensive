@@ -6,7 +6,6 @@
 !binds.cfg
 !cross*.cfg
 !*.cfg
-!commit.sh
-!autocommit.bat
+!autobackup.bat
 
 !*/
