@@ -9,5 +9,3 @@ set date=%date: =0%
 
 git commit -am "Regular auto-commit at %time% on %date%"
 git push origin master
-
-pause
