@@ -4,7 +4,7 @@ Personal config for CS:GO
 
 ---
 
-**Start arguments:** +exec autoexec.cfg -refresh 144 -high +joystick_force_disabled -allow_third_party_software
+**Start arguments:** +exec autoexec.cfg -refresh 144 -high -nojoy -nojoystick +joystick_force_disabled -allow_third_party_software
 
 ---
 
