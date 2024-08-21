@@ -7,5 +7,6 @@
 !cross*.cfg
 !*.cfg
 !autobackup.bat
+!gamestate_integration_*.cfg
 
 !*/
