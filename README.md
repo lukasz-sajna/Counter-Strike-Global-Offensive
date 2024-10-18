@@ -4,7 +4,7 @@ Personal config for CS2
 
 ---
 
-**Start arguments:** +exec autoexec.cfg -high -forcepreload 1 -nojoy +mat_queue_mode 2 -threads 9
+**Start arguments:** +exec autoexec.cfg -nojoy -threads 9 -high
 
 ---
 
