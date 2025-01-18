@@ -4,7 +4,7 @@ Personal config for CS2
 
 ---
 
-**Start arguments:** +exec autoexec.cfg -nojoy -threads 9 -high
+**Start arguments:** +exec autoexec.cfg -nojoy -high
 
 ---
 
