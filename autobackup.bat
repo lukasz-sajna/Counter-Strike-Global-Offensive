@@ -7,8 +7,8 @@ cmd /c (
   set time=%TIME:~0,2%:%TIME:~3,2%:%TIME:~6,2%
   set time=%time: =0%
 
-  :: Pobranie poprawnego formatu daty (z systemu polskiego)
-  set date=%DATE:~4,2%/%DATE:~1,2%/%DATE:~7,4%
+  :: Pobranie poprawnego formatu daty z PowerShell
+  for /f %%I in ('powershell -Command "Get-Date -Format \"dd/MM/yyyy\""' ) do set date=%%I
 
   git commit -am "Regular auto-commit at %time% on %date%"
   git push origin master
